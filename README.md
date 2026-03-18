@@ -99,7 +99,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mpsuryamp/Customer_Behaviour_Analysis_Project.git
 cd your-repo-name
 ```
 
