@@ -100,7 +100,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 
 ```bash
 git clone https://github.com/mpsuryamp/Customer_Behaviour_Analysis_Project.git
-cd your-repo-name
+cd Customer_Behaviour_Analysis_Project
 ```
 
 ### 2. Install Dependencies
